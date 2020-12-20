@@ -2,4 +2,8 @@
 shows the different type of Lenovo laptops
 
 
-![app Image 1](https://github.com/phonixcode/lenovo_laptop/blob/master/Screenshot/Welcome.png) ![app Image 2](https://github.com/phonixcode/lenovo_laptop/blob/master/Screenshot/product.png)
+<p>
+  <img src="https://github.com/phonixcode/lenovo_laptop/blob/master/Screenshot/Welcome.png" height="450px" width="250px">
+  <img src="https://github.com/phonixcode/lenovo_laptop/blob/master/Screenshot/loading.png" height="450px" width="250px">
+  <img src="https://github.com/phonixcode/lenovo_laptop/blob/master/Screenshot/product.png" height="450px" width="250px">
+</p>
